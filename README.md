@@ -1,3 +1,7 @@
+NAME: THOMPSON PEACE EMEM
+MATRIC NO: 24/13829
+DEPARTMENT: COMPUTER SCIENCE
+
 The Software Development Life Cycle (SDLC) is the process followed to develop a program. For this Python program, the stages are:
 
 1.
