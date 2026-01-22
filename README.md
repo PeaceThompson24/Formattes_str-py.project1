@@ -1,14 +1,23 @@
 NAME: THOMPSON PEACE EMEM
 MATRIC NO: 24/13829
+
 DEPARTMENT: COMPUTER SCIENCE
 
 The Software Development Life Cycle (SDLC) is the process followed to develop a program. For this Python program, the stages are:
 
 1.
-REQUIREMENT ANALYSIS: This is were we decide that the program should store “Hello World” in a variable P, use a formatted string, and display it along with another word. 
+REQUIREMENT ANALYSIS: This is were we decide that the program should store “Hello World” in a
+
+variable P,
+
+use a formatted string, and display it along with another word. 
 
 2
-SYSTEM DESIGN: The system design is where we plan how to do it we choose Python, decide on the variables, and plan to use an f-string with print() for output. 
+SYSTEM DESIGN: The system design is where we plan how to do it we choose Python, decide on the variables, and plan to use an 
+
+f-string with print() 
+
+for output. 
 
 3.
 IMPLEMENTATION: Implementation is about writing the code, assign values to the variables, and print the message.
